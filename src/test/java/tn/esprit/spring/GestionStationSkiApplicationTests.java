@@ -19,7 +19,6 @@ import java.util.Optional;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
 @ExtendWith(MockitoExtension.class)
-@SpringBootTest
 class GestionStationSkiApplicationTests {
 
 	@Mock
